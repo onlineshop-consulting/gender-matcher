@@ -1,0 +1,14 @@
+{
+  "name": "onlineshop-consulting/gender-matcher",
+  "description": "Automatic gender detection based on first names",
+  "version": "1.0.0",
+  "require": {
+    "php": ">=5.4.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "GenderMatcher\\": "/"
+    }
+  }
+}
+
