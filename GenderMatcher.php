@@ -17516,6 +17516,7 @@ class GenderMatcher{
         'willoughby' => 'm',
         'willow' => 'f',
         'willyt' => 'f',
+        'willy' => 'm',
         'wilm' => 'm',
         'wilma' => 'f',
         'wilmar' => 'm',
